@@ -7,3 +7,6 @@ def roll
   answer = rand(1..6)
   answer
 end
+
+def alt_roll
+  pos = []
