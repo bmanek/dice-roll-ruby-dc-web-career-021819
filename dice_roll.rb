@@ -7,13 +7,3 @@ def roll
   answer = rand(1..6)
   answer
 end
-
-def alt_roll
-  pos = [1,2,3,4,5,6]
-  answer = pos[rand(0...6)]
-  return answer
-end
-
-alt_roll
-alt_roll
-alt_roll
