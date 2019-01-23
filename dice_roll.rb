@@ -9,4 +9,7 @@ def roll
 end
 
 def alt_roll
-  pos = []
+  pos = [1,2,3,4,5,6]
+  answer = pos[rand(0...6)]
+  return answer
+end
