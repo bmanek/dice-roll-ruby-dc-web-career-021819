@@ -13,3 +13,7 @@ def alt_roll
   answer = pos[rand(0...6)]
   return answer
 end
+
+alt_roll
+alt_roll
+alt_roll
